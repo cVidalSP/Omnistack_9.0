@@ -1,5 +1,7 @@
 # Omnistack_9.0
 
+Roteiro
+
 BACKEND
 1 - npm init -y (Cria o packageJSON)
 2 - Instalar o Express ('npm instal express')
